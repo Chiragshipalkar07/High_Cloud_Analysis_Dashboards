@@ -1,5 +1,5 @@
 
-High Clouds Airline Analysis:
+# High Clouds Airline Analysis:
 This project is an **Airline Data Analysis** case study designed as part of a Data Analysis / Data Visualization course. The objective is to explore airline performance, passenger load factors, and travel patterns using Excel and Power BI dashboards.
 
 Project Overview:
